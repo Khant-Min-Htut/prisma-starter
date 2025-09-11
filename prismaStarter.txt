@@ -1,0 +1,15 @@
+npm init -y
+
+npm install express dotenv ts-node typescript
+
+npm install -D @types/express nodemon
+
+npx tsc --init
+
+"esModuleInterop": true
+
+npm install prisma @prisma/client
+
+npx prisma init
+
+Its been a while...Time flies!!!
